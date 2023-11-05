@@ -1,0 +1,13 @@
+name = "tetra"
+filename = "tetra-1.20.1-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YP9DjOvN/versions/zJtERv77/tetra-1.20.1-6.0.0.jar"
+hash-format = "sha1"
+hash = "96bbc0427de586ab9fec10aae5757162279d33ad"
+
+[update]
+[update.modrinth]
+mod-id = "YP9DjOvN"
+version = "zJtERv77"

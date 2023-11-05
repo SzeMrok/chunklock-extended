@@ -1,2 +1,41 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "80641cc59b2aa3109544fe68e82fe8428cb5ab304f6fd69a79c5cc84aa3019cc"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "fcede0d15939bcf5cc5b8c97a21918c13f40e13042c94b34c9cf03c1235a8dc1"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "c730f5a36bad3b8f4ffd4fdb9d1c87e5c84af61c0c5f53df5ee3df2ba068dfa1"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "3e32f49f3c57643bde66e53f023e9f83541d0a7e36a131ca06355324351cb041"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "c11383850b91d4d2713c3c0cd4b2b31a467d2d9fa09cb66e0ce2a1315df1dce8"
+metafile = true
+
+[[files]]
+file = "mods/rs-requestify.pw.toml"
+hash = "7d5d9f922fcacc9f5e0ef632e380f6eec13c0d6cb9a4d8fe77fcb650230727b8"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "cb893d360206dea6c90f247059542fc044a2aae1246be0470b9944ce70f3a6f1"
+metafile = true
+
+[[files]]
+file = "mods/tetracelium.pw.toml"
+hash = "9421e7ce08f775700d1d59cd042decdcdd32ebbbbb605bf8fdf9f6cccdd9107a"
+metafile = true
